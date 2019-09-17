@@ -17,17 +17,9 @@
 #print 'my name is '
 #for i in range(5,10, 2): #initializes i as 5, iterates until 10, steps by 2
 #    print 'Jimmy Five Times ' +str(i)
-<<<<<<< HEAD
 
 # sums 1-100
 total=0
 for num in range(101):
     total = total + num
-=======
-
-
-total=0
-for num in range(101):
-    total =total + num
->>>>>>> a2746b1ce0985cc70af280f46c52a0c16ea79bfa
 print total
