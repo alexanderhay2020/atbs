@@ -14,12 +14,12 @@
 
 
 # range function - defines where i is initialized
-print 'my name is '
-for i in range(5,10, 2): #initializes i as 5, iterates until 10, steps by 2
-    print 'Jimmy Five Times ' +str(i)
+#print 'my name is '
+#for i in range(5,10, 2): #initializes i as 5, iterates until 10, steps by 2
+#    print 'Jimmy Five Times ' +str(i)
 
 
-#total=0
-#for num in range(101):
-#    total =total + num
-#print total
+total=0
+for num in range(101):
+    total =total + num
+print total
