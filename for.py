@@ -6,7 +6,7 @@
 
 
 # same thing as program befre but with a while loop
-# while loops need definging, for loops self define
+# while loops need defining, for loops self define
 #i=0
 #while i<5:
 #    print 'Jimmy Five Times ' + str(i)
